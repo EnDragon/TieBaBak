@@ -1,18 +1,19 @@
 {
-"lastest":"V0.6",
+"lastest":"V0.6.1",
 "MD5":{
     "V0.3":"917c9bb5bf86bd5325bbbaa9ea41922",
     "V0.3.1":"64b127ac92a53dbc69a7f1b09529e0",
     "V0.3.2":"81b6841bd8d74c6f5e96fe52dca11a70",
     "V0.4":"75a36ba973592fb9efdebd094bc86bd6",
     "V0.5":"467bd08f30af4ec043bee013c7ea2fd2",
-    "V0.6":"1797041039537682aa9a607b2adaabdf"
+    "V0.6":"1797041039537682aa9a607b2adaabdf",
+    "V0.6.1":"1797041039537682aa9a607b2adaabdf"
       }
  "update":{
     "V0.3":{
         
     }
-    "V0.6":{
+    "V0.6.1":{
        "url":"http://saphira.online:8888/edragon/E%E9%BE%99%E8%B4%B4%E5%90%A7%E5%A4%87%E4%BB%BDV0.6.zip",
        "mode":["download", "ask"],
        "updateContent":"增加了备份视频贴，帖子读取速度也比以前快多了",
