@@ -8,4 +8,14 @@
     "V0.5":"467bd08f30af4ec043bee013c7ea2fd2",
     "V0.6":"1797041039537682aa9a607b2adaabdf"
       }
+ "update":{
+    "V0.3":{
+        
+    }
+    "V0.6":{
+       "url":"http://saphira.online:8888/edragon/E%E9%BE%99%E8%B4%B4%E5%90%A7%E5%A4%87%E4%BB%BDV0.6.zip",
+       "type":"download",
+       "updateContent":"增加了备份视频贴，帖子读取速度也比以前快多了"
+    }
+ }
 }
