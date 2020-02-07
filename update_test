@@ -14,7 +14,7 @@
         
     },
     "V0.6.1":{
-       "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.6.jar|BackUp.jar|"http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.6.pdf|说明.pdf"]
+       "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.6.jar|BackUp.jar|http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.6.pdf|说明.pdf"]
        "mode":["download", "ask"],
        "updateContent":"增加了备份视频贴，帖子读取速度也比以前快多了",
     }
