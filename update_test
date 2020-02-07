@@ -14,7 +14,6 @@
     }
     "V0.6":{
        "url":"http://saphira.online:8888/edragon/E%E9%BE%99%E8%B4%B4%E5%90%A7%E5%A4%87%E4%BB%BDV0.6.zip",
-       "url2":"",
        "type":"download",
        "updateContent":"增加了备份视频贴，帖子读取速度也比以前快多了"
     }
