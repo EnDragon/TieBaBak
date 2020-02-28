@@ -30,6 +30,11 @@
        "mode":["download", "ask"],
        "updateContent":"增加了Gui界面，这一次可以不使用命令行了，全程傻瓜化操作"
     },
+    "V0.8":{
+       "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.7.jar|BackUp.jar|http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.7.pdf|说明.pdf",
+       "mode":["download", "ask"],
+       "updateContent":"增加了Gui界面，这一次可以不使用命令行了，全程傻瓜化操作"
+    }
  },
 
 "Gui":{
