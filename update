@@ -9,7 +9,8 @@
     "V0.6":"1797041039537682aa9a607b2adaabdf",
     "V0.6.1":"1797041039537682aa9a607b2adaabdf",
     "V0.7":"5ce83b37303c174513e42db8dd1b9b5a",
-    "V0.8":"7b257beb996444aefba1d6eda6ce2e83"
+    "V0.8":"7b257beb996444aefba1d6eda6ce2e83",
+    "V0.8.2":""
       },
  "update":{
     "V0.3":{
@@ -34,6 +35,11 @@
        "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.8.jar|BackUp.jar|http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.8.pdf|说明.pdf|http://saphira.online:8888/edragon/updateJar/GuiV0.8.jar|Gui.jar|http://saphira.online:8888/edragon/updateJar/%E8%BF%90%E8%A1%8C%E6%88%91%E6%89%93%E5%BC%80GUI.bat|点我运行GUI.bat",
        "mode":["download", "ask"],
        "updateContent":"增加了Gui界面，这一次可以不使用命令行了，全程傻瓜化操作"
+    },
+    "V0.8.2":{
+       "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.8.jar|BackUp.jar|http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.8.pdf|说明.pdf|http://saphira.online:8888/edragon/updateJar/GuiV0.8.jar|Gui.jar|http://saphira.online:8888/edragon/updateJar/%E8%BF%90%E8%A1%8C%E6%88%91%E6%89%93%E5%BC%80GUI.bat|点我运行GUI.bat",
+       "mode":["download", "ask"],
+       "updateContent":"重写了架构"
     }
  },
 
