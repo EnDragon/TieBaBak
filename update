@@ -2,7 +2,7 @@
 "updateUrl":"https://github.com/EnDragon/EDragon_TiebaBackup",
 
 "message":{
-    ".*":"最近贴吧备份器V0.8.2可能出现了一些问题，如果出现验证出错请找一下我"
+    "*.**":"最近贴吧备份器V0.8.2可能出现了一些问题，如果出现验证出错请找一下我"
 },
 
 "lastest":"V0.8",
