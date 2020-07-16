@@ -7,7 +7,7 @@
     ".*":"最近贴吧备份器V0.8.2可能出现了一些问题，如果出现验证出错请找一下我"
 },
 
-"lastest":"V0.8.3",
+"lastest":"V0.8.5",
 "MD5":{
     "V0.3":"917c9bb5bf86bd5325bbbaa9ea41922",
     "V0.3.1":"64b127ac92a53dbc69a7f1b09529e0",
@@ -20,7 +20,8 @@
     "V0.8":"7b257beb996444aefba1d6eda6ce2e83",
     "V0.8.2":"9dbce2efd63694b190d277e87e0f1b96",
     "V0.8.3":"1eba9ecae551282d419a803d01ec8b4e",
-    "V0.8.4":"1eba9ecae551282d419a803d01ec8b4e"
+    "V0.8.4":"1eba9ecae551282d419a803d01ec8b4e",
+    "V0.8.5":"1eba9ecae551282d419a803d01ec8b4e"
       },
  "update":{
     "V0.3":{
@@ -55,6 +56,11 @@
        "url":"http://saphira.online:8888/edragon/updateJar/BackUpV0.8.3.jar|BackUp.jar|http://saphira.online:8888/edragon/updateJar/%E8%AF%B4%E6%98%8EV0.8.pdf|说明.pdf|http://saphira.online:8888/edragon/updateJar/GuiV0.8.jar|Gui.jar|http://saphira.online:8888/edragon/updateJar/%E8%BF%90%E8%A1%8C%E6%88%91%E6%89%93%E5%BC%80GUI.bat|点我运行GUI.bat",
        "mode":["download", "ask"],
        "updateContent":"这个版本貌似修复了上一个版本的问题，V0.8.2版本有莫名其妙的验证问题，如果遇到了一些类似的问题，那么请联系我QQ，如果实在没有时间了，那么请加上-noCheck参数，同时如果出现了一些奇怪的弹窗的话，那么请不要在意，那是通过验证MD5检查完整性的"
+    },
+    "V0.8.5":{
+       "url":"https://github.com/EnDragon/EDragon_TiebaBackup",
+       "mode":["open", "ask"],
+       "updateContent":"这个版本貌似修复了上一个版本的问题，暂时删掉了文件完整性验证，请保证从官方正版下载，因为暂时存储的地方崩了，所以请从网站上下载软件"
     }
  },
 
