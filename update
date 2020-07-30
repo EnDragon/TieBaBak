@@ -22,7 +22,8 @@
     "V0.8.3":"1eba9ecae551282d419a803d01ec8b4e",
     "V0.8.4":"1eba9ecae551282d419a803d01ec8b4e",
     "V0.8.5":"1eba9ecae551282d419a803d01ec8b4e",
-    "V0.8.6":"d79cbdc83ad1f733f3aa64f073bff50a"
+    "V0.8.6":"d79cbdc83ad1f733f3aa64f073bff50a",
+    "V0.8.7":"d79cbdc83ad1f733f3aa64f073bff50a"
       },
  "update":{
     "V0.3":{
@@ -67,6 +68,11 @@
        "url":"https://github.com/EnDragon/EDragon_TiebaBackup",
        "mode":["open", "ask"],
        "updateContent":"这个版本貌似修复了上一个版本的问题，暂时删掉了文件完整性验证，请保证从官方正版下载，因为暂时存储的地方崩了，所以请从网站上下载软件"
+    },
+     "V0.8.7":{
+       "url":"https://github.com/EnDragon/EDragon_TiebaBackup",
+       "mode":["open", "ask"],
+       "updateContent":"重写架构，增加了多种格式输出，帖子工具：帖子抽取，帖子查询等等(未完成)"
     }
  },
 
