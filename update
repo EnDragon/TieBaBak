@@ -24,7 +24,7 @@
     "V0.8.5":"1eba9ecae551282d419a803d01ec8b4e",
     "V0.8.6":"d79cbdc83ad1f733f3aa64f073bff50a",
     "V0.8.7":"ba46f9846e059274bbee11188588e9cd",
-    "V0.8.8":""
+    "V0.8.8":"215803e6594316b39d192e7c33b54884"
       },
  "update":{
     "V0.3":{
@@ -74,6 +74,11 @@
        "url":"https://github.com/EnDragon/EDragon_TiebaBackup",
        "mode":["open", "ask"],
        "updateContent":"重写架构，增加了多种格式输出，帖子工具：帖子抽取，帖子查询等等(未完成)"
+    },
+     "V0.8.8":{
+       "url":"https://github.com/EnDragon/EDragon_TiebaBackup",
+       "mode":["open", "ask"],
+       "updateContent":"修复了一些bug，楼中楼可能会获取不全的问题"
     }
  },
 
